@@ -1,0 +1,6 @@
+---
+
+default: --format pretty -p html
+html: --format html --out=reports/relatorio.html
+ambiente: dev
+  
